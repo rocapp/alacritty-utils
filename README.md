@@ -7,7 +7,9 @@
 
 - Isolate your alacritty-specific customizations in a virtual environment (using `pyenv`)
 - User-friendly syntax, for example:
-  `$ alacritty-utils -s metal -S  # search themes for keyword 'metal' & apply`
+  ```console
+    $ alacritty-utils -s metal -S  # search themes for keyword 'metal' & apply
+  ```
 - ...
 
 
